@@ -1,1 +1,2 @@
-# C-108-In-class
+# Normal-Distribution
+solution for c108
